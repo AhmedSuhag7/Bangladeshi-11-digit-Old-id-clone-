@@ -66,7 +66,7 @@ def cb():
     os.system('clear')
  
  
-logo = '\x1b[1;96m--------------------------------------------------\n      ---> Create to by -> AHMED SUHAG <--- \n\x1b[1;96m-------------------------------------------------- \n\x1b[1;96m     YouTube  -> Talha Technology Channel \x1b[00m\n\x1b[1;96m--------------------------------------------------\n    ---> Github -> TermuxTalha <--- \n\x1b[1;96m--------------------------------------------------'
+logo = '\x1b[1;96m--------------------------------------------------\n      ---> Create to by -> AHMED SUHAG <--- \n\x1b[1;96m-------------------------------------------------- \n\x1b[1;96m     YouTube  -> LOADING \x1b[00m\n\x1b[1;96m--------------------------------------------------\n    ---> Github -> AhmedSuhag7 <--- \n\x1b[1;96m--------------------------------------------------'
  
 back = 0
 successful = []
@@ -82,7 +82,7 @@ def menu():
     
     print '\x1b[1;96mAUTHOR  : AHMED SUHAG '
     print '\x1b[1;96mYOUTUBE: LOADING'
-    print '\x1b[1;96mGITHUB  : github.com/TERMUXTALHA'
+    print '\x1b[1;96mGITHUB  : github.com/AhmedSuhag7'
     print ''
     print 50* '-'
     print '\x1b[1;92m--------------------------------------------------'
@@ -270,4 +270,4 @@ def action():
  
 if __name__ == '__main__':
     menu()
-# okay decompiling talhabd11.pyc
+# okay decompiling SUHAG
